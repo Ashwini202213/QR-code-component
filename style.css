@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(173, 187, 187);
+    
+}
+
+
+.container{
+    /* border: 1px solid black ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 60px;
+    
+}
+
+.inner-container{
+ background-color: aliceblue;
+ padding: 10px;
+ width: 240px;
+ border-radius: 15px;
+}
+
+.img{
+    height: 240px;
+    width: 240px;
+    border-radius: 10px;
+}
+.txt{
+    padding: 5px 10px;
+}
